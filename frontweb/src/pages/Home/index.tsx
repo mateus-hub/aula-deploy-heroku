@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 import './styles.css';
 
+//página home
 const Home = () => {
   return (
     <div className="home-container">    
